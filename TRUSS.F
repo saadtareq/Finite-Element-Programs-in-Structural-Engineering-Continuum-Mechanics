@@ -1,4 +1,4 @@
-c 
+c  Computer Program for Plane Pin-Jointed Trusses
 90  cls
 100 GOSUB 9000
 105 PRINT :PRINT "FORCES IN PLANE PIN-JOINTED TRUSSES": PRINT
